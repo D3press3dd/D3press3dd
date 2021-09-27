@@ -1,12 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anthony Rosman</h1>
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="175px"/></a>
+<a href="#"><img align="right" width="500px" height="320px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/></a>
+<h3 align="justify">I am passionate about building accessible, user-friendly websites and web applications.</h3>
 
-<h3 align="center">I am passionate about building accessible, user-friendly websites and web applications.</h3>
+## 🙋‍♂️ About Me</br>
 
-## 🙋‍♂️ About Me
+<p align="justify">
+Hi, I am Anthony Rosman. Current front-end developer freelance from Venezuela. I spend my time on personal projects and learning more about Front-end and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Javascript (ES6+), React, GIT, Github, Netlify. However, I am constantly learning and am open to new technologies. If you think I would be a great fit for your team feel free to contact me so we can chat.</p>
 
-<!-- <p align="justify">
-Hi, I am Anthony Rosman. Current front-end developer freelance from Venezuela. I spend my time on personal projects and learning more about Front-end and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS(SASS), Javascript (ES6), React, GIT, Github, Netlify. However, I am constantly learning and am open to new technologies. If you think I would be a great fit for your team feel free to contact me so we can chat.</p> -->
+</br>
+<a href="#"><img align="right" width="500px" height="320px" src="https://raw.githubusercontent.com/D3press3dd/D3press3dd/main/noroot.jpg"/></a>
+
 
 - 🔭 I’m currently working on becoming a Full Stack Developer.
 
@@ -19,6 +22,7 @@ Hi, I am Anthony Rosman. Current front-end developer freelance from Venezuela. I
 - 📫 How to reach me **anthonyrosman20@gmail.com**
 
 - ⚡ Fun fact **i like to learn a lot by myself.**
+</br>
 
 ## 🚀 Languages and Tools:
 
@@ -42,22 +46,22 @@ Hi, I am Anthony Rosman. Current front-end developer freelance from Venezuela. I
 
 <p align="center">
     <a href="https://github.com/D3press3dd/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=D3press3dd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anthony Rosman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=D3press3dd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/D3press3dd/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=D3press3dd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/D3press3dd/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3press3dd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/D3press3dd/github-readme-stats"><img alt="Anthony Rosman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=D3press3dd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/D3press3dd/github-readme-stats"><img alt="Anthony Rosman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3press3dd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/D3press3dd/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=D3press3dd&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/D3press3dd/github-readme-activity-graph"><img alt="Anthony Rosman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=D3press3dd&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
