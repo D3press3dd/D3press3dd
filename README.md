@@ -13,7 +13,6 @@ Hi, I am Anthony Rosman. Current front-end developer freelance from Venezuela. I
 
 - 🔭 I’m currently working on becoming a Full Stack Developer.
 
-- 🌱 I’m currently learning **ReactJS** and always learning **Javascript.**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
