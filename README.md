@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anthony Rosman</h1>
+<h1 align="center">Hi, I'm Anthony Rosman</h1>
 <a href="#"><img align="right" width="500px" height="320px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/></a>
 <h3 align="justify">I am passionate about building accessible, user-friendly websites and web applications.</h3>
 
