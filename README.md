@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Anthony Rosman</h1>
-<a href="#"><img align="right" width="500px" height="320px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/></a>
 <h3 align="justify">I am passionate about building accessible, user-friendly websites and web applications.</h3>
 
 ## 🙋‍♂️ About Me</br>
@@ -8,7 +7,6 @@
 Hi, I am Anthony Rosman. Current front-end developer freelance from Venezuela. I spend my time on personal projects and learning more about Front-end and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Javascript (ES6+), React, GIT, Github, Netlify. However, I am constantly learning and am open to new technologies. If you think I would be a great fit for your team feel free to contact me so we can chat.</p>
 
 </br>
-<a href="#"><img align="right" width="500px" height="320px" src="https://raw.githubusercontent.com/D3press3dd/D3press3dd/main/noroot.jpg"/></a>
 
 
 - 🔭 I’m currently working on becoming a Full Stack Developer.
