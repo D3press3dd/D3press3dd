@@ -5,15 +5,17 @@
 
 <p align="justify">
 Hi, I am Anthony Rosman. Current fullstack developer freelance from Venezuela. I spend my time on personal projects and learning more about technologies and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Javascript (ES6+),Typescript, React,Jest,React Testing Library, Vitest, formik, yup, Node, Express, MongoDb, GIT, Github, Netlify. However, I am constantly learning and am open to new technologies. If you think I would be a great fit for your team feel free to contact me so we can chat.</p>
-
 </br>
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Node
+- ⚙️ React, NextJS, Redux, Apollo, Graphql, Jwt
+- 👁️ HTML, CSS, Styled Componentes,Gsap,Framer Motion, MaterialUI, CarbonDesing, Bootstrap, Antd
+- 💽 MongoDB, MySQL
+- :busts_in_silhouette: Scrum, Git, Github, Docker
+- :recycle: Jest, Cypress, Playwright
 
-- 📫 How to reach me **anthonyrosman20@gmail.com**
-
-- ⚡ Fun fact **i like to learn a lot by myself.**
-  </br>
+</br>
 
 ## 🚀 Languages and Tools:
 
