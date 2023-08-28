@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anthony Rosman</h1>
 
 ## Software engineer at [Atrapalo](https://www.atrapalo.com/).</br>
-### Contributor and maintainer of [Monkeytype](https://monkeytype.com), the world's most customizable typing website. 👨‍💻💻 
+### Contributor of [Monkeytype](https://monkeytype.com), the world's most customizable typing website. 👨‍💻💻
 
 <p align="justify">
 Hi, I am passionate about building accessible, user-friendly websites and web applications. Current fullstack developer freelance from Venezuela. I spend my time on personal projects and learning more about technologies and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Javascript (ES6+),Typescript, React,Jest,React Testing Library, Vitest, formik, yup, Node, Express, MongoDb, GIT, Github, Netlify. However, I'm open to new technologies. If you think I would be a great fit for your team feel free to contact me so we can chat.</p>
