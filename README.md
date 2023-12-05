@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anthony Rosman</h1>
 
-## Software engineer at [Atrapalo](https://www.atrapalo.com/).</br>
+## Software Senior engineer at [Atrapalo](https://www.atrapalo.com/).</br>
 ### Contributor of [Monkeytype](https://monkeytype.com), the world's most customizable typing website. 👨‍💻💻
 
 <p align="justify">
