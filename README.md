@@ -4,7 +4,7 @@
 ### Contributor of [Monkeytype](https://monkeytype.com), the world's most customizable typing website. 👨‍💻💻
 
 <p align="justify">
-Hi, I am passionate about building accessible, user-friendly websites and web applications. Current fullstack developer freelance from Venezuela. I spend my time on personal projects and learning more about technologies and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Javascript (ES6+),Typescript, React,Jest,React Testing Library, Vitest, formik, yup, Node, Express, MongoDb, GIT, Github, Netlify. However, I'm open to new technologies. If you think I would be a great fit for your team feel free to contact me so we can chat.</p>
+Hi, I am passionate about building accessible, user-friendly websites and web applications. Current fullstack developer freelance from Venezuela Living in Colombia. I spend my time on personal projects and learning more about technologies and how to improve my skills. I am passionate about building accessible, user-friendly websites and web applications. My skills include HTML, CSS, Javascript (ES6+),Typescript, React,Jest,React Testing Library, Vitest, formik, yup, Node, Express, MongoDb, GIT, Github, Netlify. However, I'm open to new technologies. If you think I would be a great fit for your team feel free to contact me so we can chat.</p>
 </br>
 
 ## Skills
